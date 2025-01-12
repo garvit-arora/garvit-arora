@@ -1,7 +1,6 @@
 # 💫 About Me:
  I’m currently working on **my skills**<br>I’m currently learning **JavaScript and Data Structures**<br> I’m looking to collaborate on **Frontend Projects**<br>I’m looking for help with **Blockchain and Web3**<br>All of my projects are available at [garvitarora.w3spaces.com](garvitarora.w3spaces.com)<br>I regularly write articles on [https://x.com/garvit_coder](https://x.com/garvit_coder)<br>Ask me about **C++, C, HTML/CSS, JS**<br>How to reach me **garvitarora@myyahoo.com**<br>Fun fact **I love solving problems so much that I build code during lunch breaks.**
  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
                 
 
 ## 🌐 Socials:
