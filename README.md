@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Garvit this side !!</h2>
+<h2 align="left">GitHub Adventures with Garvit: Code 🧑🏻‍💻, Coffee ☕, and Coolness 😎 !</h2>
 
 ###
 
