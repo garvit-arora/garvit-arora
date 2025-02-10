@@ -31,6 +31,7 @@
 </div>
 
 ###
+<h2 align="center">SOCIALS</h2>
 ###
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -39,7 +40,7 @@
 </div>
 <h2 align="center">SPOTIFY</h2>
 <div align="center">
-###
+
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j67omdlmtub6c24452tylc5db4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
