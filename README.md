@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Garvit !</h2>
+<h2 align="left">Hi 👋! Garvit this side !!</h2>
 
 ###
 
@@ -41,7 +41,9 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31j67omdlmtub6c24452tylc5db4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j67omdlmtub6c24452tylc5db4&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
