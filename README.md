@@ -45,6 +45,13 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/garvit-arora/garvit-arora/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <h2 align="center">SPOTIFY</h2>
 <div align="center">
