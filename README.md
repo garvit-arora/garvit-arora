@@ -50,7 +50,8 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/garvit-arora/garvit-arora/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <h2>Language Wise Contribution and Other Info</h2>
-    ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
   <br/><br/><br/>
 </div>
 
