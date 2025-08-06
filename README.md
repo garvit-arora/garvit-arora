@@ -1,11 +1,8 @@
 <h1 align="right">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Garvit+Arora!;" />
 </h1>
+  <img align="left" height="213" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZnYjY5Z2hya3BsMXZxaHluZzBqYWtodnRvcXFiN3EyYTE0aHZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SnVZO1N0Wo6u4/giphy.gif"  />
 
-
-<align="left">
-  <img height="213" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZnYjY5Z2hya3BsMXZxaHluZzBqYWtodnRvcXFiN3EyYTE0aHZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SnVZO1N0Wo6u4/giphy.gif"  />
-</>
 <h2 align="center">TECH STACKS</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
