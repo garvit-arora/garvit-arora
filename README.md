@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 10px;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZnYjY5Z2hya3BsMXZxaHluZzBqYWtodnRvcXFiN3EyYTE0aHZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SnVZO1N0Wo6u4/giphy.gif" 
        height="150" 
        style="margin-right: 20px;" 
