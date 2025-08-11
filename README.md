@@ -1,8 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Garvit+Arora!;" />
-</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Garvit+Arora!;">
+</div>
 
-<div>
   <h2 align="center">TECH STACKS</h2>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -24,6 +23,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+    <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vitejs/vitejs-original.svg" height="30" alt="vitejs logo"  />
+
   </div>
 
   <h2 align="center">SOCIALS</h2>
