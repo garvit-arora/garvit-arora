@@ -1,8 +1,7 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 10px;">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Garvit+Arora!;" 
-    alt="Typing text" />
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Garvit+Arora!;" />
+</h1>
+
 <div>
   <h2 align="center">TECH STACKS</h2>
   <div align="center">
