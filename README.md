@@ -2,13 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:7c3aed,50:a855f7,75:c026d3,100:ec4899&height=240&section=header&text=Garvit%20Arora&fontSize=75&fontColor=ffffff&fontAlignY=42&desc=🤖%20GenAI%20Builder%20%7C%20Agentic%20AI%20Nerd%20%7C%20Frontend%20Wizard%20🧙&descAlignY=63&descSize=17&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=building+the+future+with+AI+agents+🤖;autonomous+workflows+that+just+work+⚡;frontend+so+clean+it+hurts+💅;LLMs+%2B+code+%3D+pure+magic+🔮;shipping+agentic+AI+from+India+🇮🇳" alt="Typing SVG" />
-</a>
+<!-- Fixed: use herokuapp instead of demolab, simpler font, no emoji in lines -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=building+the+future+with+AI+agents;autonomous+workflows+that+just+work;frontend+so+clean+it+hurts;LLMs+%2B+code+%3D+pure+magic;shipping+agentic+AI+from+India" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -36,7 +31,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="360"/>
 
-🤖 &nbsp; **AI agent obsessed** — building autonomous systems that think
+🤖 &nbsp; **AI agent obsessed** — building systems that think for themselves
 
 🧠 &nbsp; **GenAI is my playground** — LangChain, CrewAI, AutoGen, LlamaIndex
 
@@ -44,11 +39,11 @@
 
 ⚡ &nbsp; **Agentic workflows** — making AI do the boring stuff so humans don't
 
-🔗 &nbsp; **RAG pipelines, tool-calling, multi-agent systems** — yeah, that stuff
+🔗 &nbsp; **RAG pipelines, tool-calling, multi-agent** — yeah, that stuff
 
 🚀 &nbsp; **Vibe:** ship fast, break things, learn faster
 
-🌙 &nbsp; **Online 24/7** when the idea is good enough
+🌙 &nbsp; **Online 24/7** when the idea hits different
 
 🎯 &nbsp; **End goal:** build an AI that builds AI
 
@@ -92,13 +87,13 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Vector%20DB-Pinecone-00B388?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/RAG%20Pipelines-6366F1?style=for-the-badge&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MCP-Tool%20Calling-A855F7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP%20Protocol-A855F7?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -149,26 +144,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=garvit-arora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=16&hide_border=true&bg_color=09090b&title_color=a855f7&icon_color=6366f1&text_color=e2e8f0&ring_color=ec4899" height="185"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-arora&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=a855f7&text_color=e2e8f0&border_radius=16" height="185"/>
+<!-- Fixed: use cache_seconds and explicit width to avoid rendering issues -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=garvit-arora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=16&hide_border=true&bg_color=09090b&title_color=a855f7&icon_color=6366f1&text_color=e2e8f0&ring_color=ec4899&cache_seconds=1800" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-arora&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=a855f7&text_color=e2e8f0&border_radius=16&cache_seconds=1800" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=garvit-arora&theme=tokyonight&hide_border=true&background=09090b&stroke=7c3aed&ring=a855f7&fire=ec4899&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=6366f1&dates=64748b&border_radius=16" width="62%"/>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=garvit-arora&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4&row=2" />
-</a>
+<img width="60%" src="https://streak-stats.demolab.com?user=garvit-arora&theme=tokyonight&hide_border=true&background=09090b&stroke=7c3aed&ring=a855f7&fire=ec4899&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=6366f1&dates=64748b&border_radius=16" />
 
 </div>
 
@@ -187,7 +169,7 @@
 ## 📈 Contribution Heatmap
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-arora&theme=tokyo-night&bg_color=09090b&color=a855f7&line=7c3aed&point=ec4899&area=true&hide_border=true&area_color=6366f120" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-arora&theme=tokyo-night&bg_color=09090b&color=a855f7&line=7c3aed&point=ec4899&area=true&hide_border=true" width="98%"/>
 </div>
 
 ---
@@ -196,18 +178,15 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   🤖  Multi-Agent Systems  →  Agents that spawn agents          │
-│   🔗  LangGraph Workflows  →  Stateful AI pipelines             │
-│   🧩  Tool-Calling LLMs   →  AI that actually does stuff        │
-│   📚  RAG at scale         →  Knowledge bases that slap         │
-│   🌐  MCP Protocol         →  The future of AI tooling          │
-│   ⚡  Real-time AI         →  Streaming responses, live agents  │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+| 🔥 | Topic | What it means for me |
+|:---:|:---|:---|
+| 🤖 | **Multi-Agent Systems** | Agents that spawn, coordinate & self-improve |
+| 🔗 | **LangGraph Workflows** | Stateful, looping AI pipelines that don't break |
+| 🧩 | **Tool-Calling LLMs** | AI that actually *does* stuff, not just talks |
+| 📚 | **RAG at Scale** | Knowledge bases that actually slap |
+| 🌐 | **MCP Protocol** | The future standard of AI tooling |
+| ⚡ | **Real-time Agentic AI** | Streaming agents, live decisions, no waiting |
+| 🧪 | **AI Evals & Observability** | Because vibes aren't a metric |
 
 </div>
 
@@ -219,11 +198,51 @@
 
 ---
 
+## 💭 Thoughts & Hot Takes
+
+<div align="center">
+
+> **"Most devs use AI as a search engine. I use it as a teammate."**
+
+> **"Agentic AI isn't the future — it's already late."**
+
+> **"The best UI is the one users forget they're using."**
+
+> **"Your RAG pipeline is only as good as your chunking strategy. Fight me."**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   unpopular opinion:  context windows matter more than       │
+│   model size. a well-prompted small model beats a lazy      │
+│   prompt on GPT-4 every single time.                        │
+│                                                              │
+│   — Garvit, probably debugging a LangGraph node at 2am     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</div>
+
+---
+
 ## 🌐 Let's Link Up
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/garvit-/" target="_blank">
+<a href="https://www.linkedin.com/in/garvitt-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090b" height="38"/>
 </a>
 &nbsp;
@@ -235,13 +254,13 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=09090b" height="38"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=09090b" height="38"/>
+<a href="https://x.com/garvit_coder" target="_blank">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=09090b" height="38"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/💬%20Got%20an%20AI%20idea%3F-Let's%20build%20it%20together-a855f7?style=for-the-badge&labelColor=09090b" height="35"/>
+<img src="https://img.shields.io/badge/Got%20an%20AI%20idea%3F-Let%27s%20build%20it%20together%20%F0%9F%9A%80-a855f7?style=for-the-badge&labelColor=09090b" height="35"/>
 
 </div>
 
