@@ -5,7 +5,7 @@
      ═══════════════════════════════════════════════════════════ -->
 
 <!-- Top wave: sharp vortex sweep in indigo-to-pink -->
-<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:020024,30:090979,60:6d00a8,100:ff006a&height=260&section=header&text=Garvit%20Arora&fontSize=80&fontColor=ffffff&fontAlignY=48&desc=GenAI%20Builder%20%E2%80%A2%20Agentic%20AI%20Architect%20%E2%80%A2%20Frontend%20Wizard&descAlignY=68&descSize=17&animation=twinkling&stroke=ffffff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:020024,30:090979,60:6d00a8,100:ff006a&height=260&section=header&text=Garvit%20Arora&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=GenAI%20Builder%20%E2%80%A2%20Agentic%20AI%20Architect%20%E2%80%A2%20Frontend%20Wizard&descAlignY=67&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Glowing animated name banner (SVG — no external image needed) -->
 <picture>
@@ -234,5 +234,5 @@ garvit = {
 
 <!-- FOOTER — sharp slice style, reversed color sweep -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff006a,40:6d00a8,70:090979,100:020024&height=120&section=footer&reversal=true&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff006a,40:6d00a8,70:090979,100:020024&height=120&section=footer&reversal=true&animation=fadeIn" width="100%"/>
 </div>
