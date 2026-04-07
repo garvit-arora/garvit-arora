@@ -1,67 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:7c3aed,50:a855f7,75:c026d3,100:ec4899&height=240&section=header&text=Garvit%20Arora&fontSize=75&fontColor=ffffff&fontAlignY=42&desc=🤖%20GenAI%20Builder%20%7C%20Agentic%20AI%20Nerd%20%7C%20Frontend%20Wizard%20🧙&descAlignY=63&descSize=17&animation=fadeIn" width="100%"/>
+<!-- HEADER BANNER: particle burst + name fade -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Garvit%20Arora&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=GenAI%20Builder%20%E2%80%A2%20Agentic%20AI%20Nerd%20%E2%80%A2%20Frontend%20Wizard&descAlignY=65&descSize=16&animation=scaleIn" width="100%"/>
 
-<!-- Fixed: use herokuapp instead of demolab, simpler font, no emoji in lines -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=900&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=building+the+future+with+AI+agents;autonomous+workflows+that+just+work;frontend+so+clean+it+hurts;LLMs+%2B+code+%3D+pure+magic;shipping+agentic+AI+from+India" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=garvit-arora&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=09090b" />
-&nbsp;
-<a href="https://github.com/garvit-arora?tab=followers">
-  <img src="https://img.shields.io/github/followers/garvit-arora?style=for-the-badge&color=a855f7&labelColor=09090b&logo=github&label=FOLLOWERS" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-building%20AI%20agents%20%F0%9F%A4%96-ec4899?style=for-the-badge&labelColor=09090b" />
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN%20TO-collab%20%F0%9F%94%A5-6366f1?style=for-the-badge&labelColor=09090b" />
-
-</div>
+<!-- TYPING: different lines from before -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=autonomous+agents+that+actually+finish+tasks;RAG+pipelines+that+don't+hallucinate+(usually);React+UIs+sharper+than+your+PM's+slides;multi-agent+chaos%2C+beautifully+orchestrated;shipping+agentic+AI+%F0%9F%9A%80+from+Delhi" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=garvit-arora&style=flat-square&color=6366f1&label=profile+views" />
+&nbsp;
+<a href="https://github.com/garvit-arora?tab=followers">
+  <img src="https://img.shields.io/github/followers/garvit-arora?style=flat-square&color=a855f7&logo=github&label=followers" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/open_to-collabs_%F0%9F%A4%9D-22d3ee?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/status-building_agents_%F0%9F%A4%96-ec4899?style=flat-square" />
+
 </div>
 
 ---
 
-## 🧬 Who Am I
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320"/>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="360"/>
+## 🧬 System.profile()
 
-🤖 &nbsp; **AI agent obsessed** — building systems that think for themselves
-
-🧠 &nbsp; **GenAI is my playground** — LangChain, CrewAI, AutoGen, LlamaIndex
-
-🌐 &nbsp; **Frontend is my canvas** — React UIs that feel alive
-
-⚡ &nbsp; **Agentic workflows** — making AI do the boring stuff so humans don't
-
-🔗 &nbsp; **RAG pipelines, tool-calling, multi-agent** — yeah, that stuff
-
-🚀 &nbsp; **Vibe:** ship fast, break things, learn faster
-
-🌙 &nbsp; **Online 24/7** when the idea hits different
-
-🎯 &nbsp; **End goal:** build an AI that builds AI
+```python
+garvit = {
+  "role":      "GenAI Builder + Agentic AI Nerd",
+  "city":      "Delhi, India 🇮🇳",
+  "focus":     ["LLM Orchestration", "Multi-Agent Systems", "RAG at Scale"],
+  "stack":     ["LangGraph", "CrewAI", "LlamaIndex", "AutoGen", "FastAPI", "React"],
+  "obsession": "AI that does things, not just says things",
+  "online":    "24/7 when the idea hits 🌙",
+  "endgame":   "build an AI that builds AI",
+}
+```
 
 &nbsp;
 
 &nbsp;
 
+&nbsp;
+
 ---
 
+<!-- SEPARATOR: soft horizontal rule -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500"/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800"/>
 </div>
 
 ---
 
-## 🤖 GenAI & Agentic AI Stack
+## 🤖 GenAI & Agentic Stack
 
 <div align="center">
+
+**Orchestration**
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 &nbsp;
@@ -73,46 +70,28 @@
 &nbsp;
 <img src="https://img.shields.io/badge/LlamaIndex-FFC107?style=for-the-badge&logoColor=black"/>
 
-<br/><br/>
+**Models & APIs**
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-<br/><br/>
+**Vector & Memory**
 
 <img src="https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/RAG%20Pipelines-6366F1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-6366F1?style=for-the-badge&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MCP%20Protocol-A855F7?style=for-the-badge&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP_Protocol-A855F7?style=for-the-badge&logoColor=white"/>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
 </div>
 
 ---
@@ -121,21 +100,18 @@
 
 <div align="center">
 
-### ⚛️ Frontend
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark&perline=8" />
 
-### 🔧 Backend & Infra
+**Backend & Infra**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,docker,git&theme=dark&perline=8" />
 
-### 🎨 Design & Tools
+**Tools & Design**
+<br/>
 <img src="https://skillicons.dev/icons?i=figma,vscode,vercel,github,linux,postman&theme=dark&perline=8" />
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 ---
@@ -144,32 +120,21 @@
 
 <div align="center">
 
-<!-- Fixed: use cache_seconds and explicit width to avoid rendering issues -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=garvit-arora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=16&hide_border=true&bg_color=09090b&title_color=a855f7&icon_color=6366f1&text_color=e2e8f0&ring_color=ec4899&cache_seconds=1800" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-arora&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=a855f7&text_color=e2e8f0&border_radius=16&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=garvit-arora&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&title_color=c084fc&icon_color=22d3ee&text_color=e2e8f0&ring_color=ec4899&cache_seconds=1800" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvit-arora&layout=compact&langs_count=8&theme=midnight-purple&hide_border=false&title_color=c084fc&text_color=e2e8f0&border_radius=12&cache_seconds=1800" />
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=garvit-arora&theme=tokyonight&hide_border=true&background=09090b&stroke=7c3aed&ring=a855f7&fire=ec4899&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=6366f1&dates=64748b&border_radius=16" />
+<img width="60%" src="https://streak-stats.demolab.com?user=garvit-arora&theme=midnight-purple&hide_border=false&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideLabels=22d3ee&border_radius=12" />
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b46b.gif" width="180"/>
-</div>
-
----
-
-## 📈 Contribution Heatmap
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-arora&theme=tokyo-night&bg_color=09090b&color=a855f7&line=7c3aed&point=ec4899&area=true&hide_border=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvit-arora&theme=react-dark&bg_color=0d1117&color=c084fc&line=a855f7&point=22d3ee&area=true&hide_border=true&radius=8" width="98%"/>
 </div>
 
 ---
@@ -178,37 +143,31 @@
 
 <div align="center">
 
-| 🔥 | Topic | What it means for me |
+| | Topic | Why it matters to me |
 |:---:|:---|:---|
-| 🤖 | **Multi-Agent Systems** | Agents that spawn, coordinate & self-improve |
-| 🔗 | **LangGraph Workflows** | Stateful, looping AI pipelines that don't break |
-| 🧩 | **Tool-Calling LLMs** | AI that actually *does* stuff, not just talks |
-| 📚 | **RAG at Scale** | Knowledge bases that actually slap |
-| 🌐 | **MCP Protocol** | The future standard of AI tooling |
-| ⚡ | **Real-time Agentic AI** | Streaming agents, live decisions, no waiting |
-| 🧪 | **AI Evals & Observability** | Because vibes aren't a metric |
+| 🕸️ | **Multi-Agent Systems** | Agents that spawn, coordinate & self-improve |
+| 🔁 | **LangGraph Workflows** | Stateful, looping AI pipelines with real memory |
+| 🛠️ | **Tool-Calling LLMs** | AI that *acts*, not just chatters |
+| 📚 | **RAG at Scale** | Knowledge bases that actually answer right |
+| 🔌 | **MCP Protocol** | The next standard for AI tooling |
+| ⚡ | **Streaming Agentic AI** | Live decisions, zero wait |
+| 🔬 | **AI Evals & Observability** | Vibes aren't a metric |
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="500"/>
-</div>
-
----
-
-## 💭 Thoughts & Hot Takes
+## 💭 Hot Takes
 
 <div align="center">
 
-> **"Most devs use AI as a search engine. I use it as a teammate."**
+> *"Most devs use AI as a search engine. I use it as a teammate."*
 
-> **"Agentic AI isn't the future — it's already late."**
+> *"Your RAG pipeline is only as good as your chunking strategy. Fight me."*
 
-> **"The best UI is the one users forget they're using."**
+> *"The best UI is the one users forget they're using."*
 
-> **"Your RAG pipeline is only as good as your chunking strategy. Fight me."**
+> *"Agentic AI isn't the future — it's already late."*
 
 </div>
 
@@ -217,23 +176,16 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   unpopular opinion:  context windows matter more than       │
-│   model size. a well-prompted small model beats a lazy      │
-│   prompt on GPT-4 every single time.                        │
-│                                                              │
-│   — Garvit, probably debugging a LangGraph node at 2am     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  unpopular opinion: context windows matter more than         ║
+║  model size. a well-prompted small model beats a lazy        ║
+║  GPT-4 prompt every single time.                             ║
+║                                                              ║
+║  — Garvit, debugging a LangGraph node at 2am                ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </div>
 
 ---
@@ -243,39 +195,36 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/garvitt-/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090b" height="38"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/garvit.universe/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=09090b" height="38"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36"/>
 </a>
 &nbsp;
 <a href="mailto:garvit.university@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=09090b" height="38"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
 </a>
 &nbsp;
 <a href="https://x.com/garvit_coder" target="_blank">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=09090b" height="38"/>
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="36"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Got%20an%20AI%20idea%3F-Let%27s%20build%20it%20together%20%F0%9F%9A%80-a855f7?style=for-the-badge&labelColor=09090b" height="35"/>
+<img src="https://img.shields.io/badge/Got_an_AI_idea%3F-Let's_build_it_🚀-a855f7?style=for-the-badge" height="34"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="72%"/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,30:c026d3,60:a855f7,80:7c3aed,100:6366f1&height=140&section=footer&reversal=true&animation=fadeIn" width="100%"/>
-
+<!-- FOOTER BANNER: vortex style, reversed gradient from header -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=ship+it.+learn+it.+break+it.&fontSize=26&fontColor=c084fc&fontAlignY=55&animation=twinkling" width="100%"/>
 </div>
